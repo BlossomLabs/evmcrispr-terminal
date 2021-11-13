@@ -361,7 +361,7 @@ exec agent:new-agent transfer -token:XDAI vault 100e18
       <AceEditor
         width="100%"
         mode="jade"
-        theme="github"
+        theme="vibrant_ink"
         name="code"
         value={code}
         onLoad={() => console.log("load")}
