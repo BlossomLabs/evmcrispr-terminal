@@ -184,6 +184,7 @@ function Connect({
               <option value="5">Görli</option>
               <option value="42">Kovan</option>
               <option value="10">Optimism</option>
+              <option value="100">xDai</option>
               <option value="42161">Arbitrum</option>
             </select>
           </label>
