@@ -1,4 +1,26 @@
-body { background: black; color: white }
-body, h1, input {font-weight: bold; font-size: 40px; font-family: Monaco, Menlo, "Ubuntu Mono", Consolas, source-code-pro, monospace;}
-h1 {color: #D8FA3C; }
-input[type=button] {background-color: #D8FA3C;cursor:pointer}
+body {
+  background: black;
+  color: white;
+}
+body,
+h1,
+input {
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Monaco, Menlo, "Ubuntu Mono", Consolas, source-code-pro,
+    monospace;
+}
+h1 {
+  font-size: 40px;
+  color: #d8fa3c;
+}
+button {
+  font-size: 20px;
+  cursor: pointer;
+}
+input {
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Monaco, Menlo, "Ubuntu Mono", Consolas, source-code-pro,
+    monospace;
+}
